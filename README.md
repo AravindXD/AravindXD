@@ -2,18 +2,19 @@
     <img src="https://github-widgetbox.vercel.app/api/profile?username=AravindXD&data=followers,repositories,stars,commits&theme=carbon" alt="GitHub WidgetBox">
 </p>
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=AravindXD&color=blue&style=flat-square"><img src="https://komarev.com/ghpvc/?username=AravindXD&color=blue&style=flat-square" alt="Profile Views"></a>
-<a href="https://www.linkedin.com/in/aravind-nag">
-  <img
-    src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-0A66C2?logo=linkedin-white&logoColor=fff&style=flat-square"
-    alt="LinkedIn">
-</a>
-<a href="https://kaggle.com/aravindnagarajan">
-  <img src="https://img.shields.io/badge/Kaggle-Contributor-orange?logo=kaggle&logoColor=white" alt="Kaggle">
-</a>
-<a href="https://leetcode.com/aravindxd">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-yellow?logo=leetcode&logoColor=black" alt="LeetCode">
-</a>
+    <a href="https://www.linkedin.com/in/aravind-nag">
+      <img
+        src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-0A66C2?logo=linkedin-white&logoColor=fff&style=flat-square"
+        alt="LinkedIn">
+    </a>
+    <a href="https://kaggle.com/aravindnagarajan">
+      <img src="https://img.shields.io/badge/Kaggle-Contributor-orange?logo=Kaggle&logoColor=white" alt="Kaggle">
+    </a>
+    <a href="https://leetcode.com/aravindxd">
+      <img src="https://img.shields.io/badge/LeetCode-Profile-yellow?logo=leetcode&logoColor=black" alt="LeetCode">
+    </a>
+    <a href="https://komarev.com/ghpvc/?username=AravindXD&color=blue&style=flat-square"><img src="https://komarev.com/ghpvc/?username=AravindXD&color=blue&style=flat-square" alt="Profile Views">
+    </a>
 </p>
 
 ---
