@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Jurredr/github-widgetbox">
     <img src="https://github-widgetbox.vercel.app/api/profile?username=AravindXD&data=followers,repositories,stars,commits&theme=carbon" alt="GitHub WidgetBox">
-  </a>
 </p>
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=AravindXD&color=blue&style=flat-square"><img src="https://komarev.com/ghpvc/?username=AravindXD&color=blue&style=flat-square" alt="Profile Views"></a>
@@ -33,6 +31,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="Maven" height="48" width="48" />  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" alt="Tomcat" height="48" width="48"/>
     <br>
+    <a href="#"><img alt="Postman" src="https://skillicons.dev/icons?i=postman"></a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg"alt="OpenAPI" height="48" width="48" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="Swagger" height="48" width="48"/>
   <br>
@@ -60,7 +59,6 @@
     <!-- Tools --><br>
     <a href="#"><img alt="Git" src="https://skillicons.dev/icons?i=git"></a>
     <a href="#"><img alt="AWS" src="https://skillicons.dev/icons?i=aws"></a>
-    <a href="#"><img alt="Postman" src="https://skillicons.dev/icons?i=postman"></a>
     <a href="#"><img alt="Anaconda" src="https://skillicons.dev/icons?i=anaconda"></a>
     <a href="#"><img alt="Docker" src="https://skillicons.dev/icons?i=docker"></a>
     <!-- Databases --><br>
