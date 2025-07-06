@@ -9,10 +9,10 @@
     alt="LinkedIn">
 </a>
 <a href="https://kaggle.com/aravindnagarajan">
-  <img src="https://img.shields.io/badge/Kaggle-Competitions_Contributor-orange?logo=kaggle&logoColor=white" alt="Kaggle">
+  <img src="https://img.shields.io/badge/Kaggle-Contributor-orange?logo=kaggle&logoColor=white" alt="Kaggle">
 </a>
 <a href="https://leetcode.com/aravindxd">
-  <img src="https://img.shields.io/badge/LeetCode-Solutions-yellow?logo=leetcode&logoColor=black" alt="LeetCode">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-yellow?logo=leetcode&logoColor=black" alt="LeetCode">
 </a>
 </p>
 
